@@ -1,0 +1,28 @@
+_repo: Green-Timber-Thoroughbreds_65555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Theodore Goodridge
+    aliases:
+    - Roberts, G. E. Theodore (George Edward Theodore)
+    - Roberts, George Edward Theodore
+    - Goodridge Roberts, Theodore
+    - Roberts, T. G. (Theodore Goodridge)
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '7525'
+    url: http://www.gutenberg.org/2009/agents/7525
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
+description: ''
+gutenberg_issued: '2021-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Green Timber Thoroughbreds
+url: http://www.gutenberg.org/ebooks/65555
